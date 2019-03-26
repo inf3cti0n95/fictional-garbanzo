@@ -14,7 +14,7 @@ You are tasked to build a scalable, lightning fast backend, with optimum archite
 
 You can use https://github.com/first20hours/google-10000-english for List of Words for the completion. 
 
-You are to fork this repository and submit a pull request of the final solution. With a proper feature request documented with a Architecture Diagram for the System.
+You are to fork this repository and submit a pull request of the final solution. With a proper feature request documented with a Architecture Diagram for the System. Also if possible, In pull request, please comment before or after major commits, the thinking process and reason for the commits in detail.
 
 # Judging Criteria
 
